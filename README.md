@@ -3,7 +3,7 @@
 * Install
 
       $ git clone https://github.com/mlazoy/lunix-tng
-      $ cd lunix_driver
+      $ cd lunix-tng/lunix_driver
 
 * Load module
   

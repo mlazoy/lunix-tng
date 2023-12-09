@@ -7,7 +7,7 @@
 
 * Load module
   
-      $ su - \n
+      $ su - 
       # make
       # insmod ./lunix.ko
       # ./mk-lunix-devs.sh
